@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://byjovkfhlah63"]
+
+[ext_resource type="Texture2D" uid="uid://borndvqibwhie" path="res://Beach/Boy_2.webp" id="1_xuhyw"]
+
+[node name="Man" type="Node2D"]
+
+[node name="Boy2" type="Sprite2D" parent="."]
+position = Vector2(714, 382)
+scale = Vector2(0.765, 0.765)
+texture = ExtResource("1_xuhyw")
